@@ -1,4 +1,4 @@
-<h1 align="center">Tran Tai</h1>
+<h1 align="center">Tai Tran</h1>
 
 <p align="center">
   Building practical software products for real business problems.
